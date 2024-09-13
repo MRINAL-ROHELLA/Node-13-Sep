@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Stepha",
+        "last_name": "Clamp",
+        "email": "sclamp0@furl.net",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Leonerd",
+        "last_name": "Cariss",
+        "email": "lcariss1@diigo.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Madeleine",
+        "last_name": "Scorrer",
+        "email": "mscorrer2@irs.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Kissee",
+        "last_name": "Blazevic",
+        "email": "kblazevic3@skype.com",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Jorrie",
+        "last_name": "Couser",
+        "email": "jcouser4@ow.ly",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Chrisse",
+        "last_name": "Ouver",
+        "email": "couver5@networksolutions.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Chery",
+        "last_name": "Haslam",
+        "email": "chaslam6@mapquest.com",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Thaddus",
+        "last_name": "Van Der Hoog",
+        "email": "tvanderhoog7@nifty.com",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Brion",
+        "last_name": "Chisholm",
+        "email": "bchisholm8@state.tx.us",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Ina",
+        "last_name": "Hannigane",
+        "email": "ihannigane9@unesco.org",
+        "gender": "Female"
+    }
+]
